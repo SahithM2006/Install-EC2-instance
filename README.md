@@ -1,4 +1,4 @@
-![IMG-20250312-WA0004](https://github.com/user-attachments/assets/2f2ff57e-5c8c-4b61-9a68-e1dd6efdbf99)1. Explore & Understand AWS
+1. Explore & Understand AWS
 Algorithm:
 
 Sign up for AWS
